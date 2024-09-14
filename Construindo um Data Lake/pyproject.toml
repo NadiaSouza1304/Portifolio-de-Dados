@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "construindo um data lake"
+version = "0.1.0"
+description = ""
+authors = ["Nádia Souza <nadialuisa@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+datetime = "^5.5"
+sqlalchemy = "^2.0.34"
+configparser = "^7.1.0"
+boto3 = "^1.35.19"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
