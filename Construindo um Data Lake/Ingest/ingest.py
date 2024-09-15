@@ -41,7 +41,7 @@ class Ingestion:
 
     def __upload_to_s3(self):
         s3_client = boto3.client('s3')
-        bucket_name = 'pod-academy-lake-859853042607'
+        bucket_name = 'data-lake-portifolio-211529015094'
         prefix = f'0000_ingestion/{self.__subject}/{self.__filename}.csv'
         print(prefix)
 
