@@ -7,7 +7,7 @@ O objetivo deste repositório é compartilhar meu aprendizado, habilidades e exp
 
 📂 Projetos:
 
-**1. Construindo um Data Lake:**
+**1. Construindo um Data Lake:**  
 Construção de um Data Lake escalável e eficiente usando serviços da AWS, para armazenar, processar e analisar grandes volumes de dados estruturados e não estruturados.  
 Tecnologias: Python, Pandas, Matplotlib  
 Objetivo: Criar dashboards e relatórios que auxiliem na tomada de decisões.  
